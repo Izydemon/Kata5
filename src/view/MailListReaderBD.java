@@ -12,6 +12,7 @@ import java.util.List;
 import java.util.Scanner;
 import model.Mail;
 
+
 public class MailListReaderBD {
     public static List<Mail> read() throws Exception {
         List<Mail> lista = new ArrayList<>();

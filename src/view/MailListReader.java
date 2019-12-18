@@ -7,6 +7,7 @@ import java.util.List;
 import java.util.Scanner;
 import model.Mail;
 
+
 public class MailListReader {
     public static List<Mail> read(String fileName) throws Exception {
         List<Mail> lista = new ArrayList<>();

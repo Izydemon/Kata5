@@ -8,6 +8,7 @@ import static view.MailHistogramBuilder.build;
 import static view.MailListReader.read;
 import static view.MailListReaderBD.read;
 
+
  public class Kata5 {
     
     private final String fileName;

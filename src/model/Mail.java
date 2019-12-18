@@ -1,5 +1,6 @@
 package model;
 
+
 public class Mail {
     private String mail;
      public Mail(String mail) {
